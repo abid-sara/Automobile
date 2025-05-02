@@ -5,6 +5,7 @@ notebooks = [
     "notebooks\\preprocessing_and_eda.ipynb",
     "notebooks\\knn.ipynb",
     "notebooks\\linear_regression.ipynb",
+    "notebooks\\naive_bayes.ipynb",
 ]
 
 # Merge the notebooks
