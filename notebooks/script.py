@@ -2,9 +2,7 @@ import nbmerge
 
 # List all your notebook filenames
 notebooks = [
-    "notebooks\\preprocessing_and_eda.ipynb",
-    "notebooks\\knn.ipynb",
-    "notebooks\\linear_regression.ipynb",
+    "notebooks\\automobile.ipynb",
     "notebooks\\naive_bayes.ipynb",
 ]
 
